@@ -18,7 +18,7 @@
 
 <!-- SOCIAL LINKS -->
 <p align="center">
-  <a href="https://github.com/tech-bhupendra" target="_blank">
+  <a href="https://github.com/saud-bhupendra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E&color=C084FC"/>
   </a>
   <a href="https://www.linkedin.com/in/tech-cs-b100972b5/" target="_blank">
@@ -139,48 +139,41 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <!-- ============================================================ -->
-<!--                    STATS & CONTRIBUTIONS                     -->
+<!--                    GITHUB STATS                               -->
 <!-- ============================================================ -->
 
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  <b style="color: #C084FC;">GitHub Stats</b>
+  <b style="color: #C084FC;">GitHub Analytics</b>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
 <!-- PROFILE SUMMARY CARD – matches the screenshot style -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tech-bhupendra&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=saud-bhupendra&theme=github_dark" width="100%" />
 </p>
 
 <!-- STREAK STATS – shows current & longest streak, total contributions -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tech-bhupendra&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saud-bhupendra&theme=github-dark-blue&hide_border=true" />
 </p>
 
-<!-- ADDITIONAL LIVE BADGES FOR QUICK REFERENCE -->
+<!-- STATS CARDS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Repositories&query=public_repos&url=https://api.github.com/users/tech-bhupendra&style=for-the-badge&color=C084FC&logo=github&labelColor=1A0B2E" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Stars&query=%24%5B0%5D.stargazers_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=A78BFA&logo=github&labelColor=1A0B2E" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Total%20Forks&query=%24%5B0%5D.forks_count&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftech-bhupendra%2Frepos%3Fper_page%3D100&style=for-the-badge&color=34D399&logo=github&labelColor=1A0B2E" />
-  <img src="https://img.shields.io/github/followers/tech-bhupendra?label=Followers&style=for-the-badge&color=FB7185&logo=github&labelColor=1A0B2E" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saud-bhupendra&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saud-bhupendra&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="170" />
 </p>
 
-<!-- DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-<!-- ============================================================ -->
-<!--                    MOST USED LANGUAGES                       -->
-<!-- ============================================================ -->
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-  <b style="color: #C084FC;">Most Used Languages</b>
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-</h2>
-
+<!-- LIVE BADGES - Fixed with correct API endpoints -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tech-bhupendra&layout=compact&theme=github_dark&hide_border=true&count_private=true" />
+  <img src="https://img.shields.io/github/followers/saud-bhupendra?label=Followers&style=for-the-badge&color=FB7185&logo=github&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/github/stars/saud-bhupendra?label=Total%20Stars&style=for-the-badge&color=A78BFA&logo=github&labelColor=1A0B2E" />
+  <img src="https://img.shields.io/github/watchers/saud-bhupendra/saud-bhupendra?label=Profile%20Views&style=for-the-badge&color=C084FC&logo=github&labelColor=1A0B2E" />
+</p>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saud-bhupendra&label=Profile%20Views&color=C084FC&style=for-the-badge" />
 </p>
 
 <!-- DIVIDER -->
@@ -197,7 +190,7 @@
 </h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tech-bhupendra&theme=github-dark&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=saud-bhupendra&theme=github-dark&hide_border=true" />
 </p>
 
 <!-- DIVIDER -->
@@ -231,11 +224,11 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/tech-bhupendra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=tech-bhupendra&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/saud-bhupendra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saud-bhupendra&repo=saud-bhupendra&theme=github_dark&hide_border=true" />
   </a>
-  <a href="https://github.com/tech-bhupendra">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tech-bhupendra&repo=tech-bhupendra&theme=github_dark&hide_border=true" />
+  <a href="https://github.com/saud-bhupendra">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saud-bhupendra&repo=saud-bhupendra&theme=github_dark&hide_border=true" />
   </a>
 </p>
 
@@ -336,8 +329,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/tech-bhupendra">
-    <img src="https://img.shields.io/badge/GitHub-tech--bhupendra-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/saud-bhupendra">
+    <img src="https://img.shields.io/badge/GitHub-saud--bhupendra-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:saudbhuban86@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
