@@ -21,7 +21,7 @@
   <a href="https://github.com/saud-bhupendra" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A0B2E&color=C084FC"/>
   </a>
-  <a href="https://www.linkedin.com/in/tech-cs-b100972b5/" target="_blank">
+  <a href="https://www.linkedin.com/in/bhupendra-saud-b100972b5/?isSelfProfile=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A0B2E&color=9A7DFF"/>
   </a>
   <a href="https://x.com/Bhubansaud1234" target="_blank">
